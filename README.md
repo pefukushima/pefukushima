@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @pefukushima
+- 🌱 I’m currently learning React and Python...
+- 💞️ I’m looking to collaborate on new projects and interest ideas to develop...
+- 📫 you can contact me via Linkedin using my name Pedro Fukushima...
+
+<!---
+pefukushima/pefukushima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
